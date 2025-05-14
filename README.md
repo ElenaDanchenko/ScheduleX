@@ -1,5 +1,5 @@
 # ScheduleX #
-
+![Система управления расписанием](https://github.com/ElenaDanchenko/ScheduleX/blob/main/Log1/original.png)
 
 ### **Цель проекта** ###
 
