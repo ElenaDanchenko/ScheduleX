@@ -28,6 +28,11 @@
 
 ### Анализ проблемы
 
+#### Диаграмма Ишикавы
+
+<img src="[https://github.com/ElenaDanchenko/ScheduleX/blob/main/Log1/original.png](https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png)" alt="Диаграмма Ишикавы" width="400" height="400">
+
+
 | Категория проблемы | Описание |
 |---|---|
 | **Проблема** | Сложности в создании расписаний работы медицинского персонала |
