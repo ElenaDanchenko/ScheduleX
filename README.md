@@ -57,10 +57,6 @@
 
 # Product Requirements Document (PRD) - ScheduleX
 
-**Дата:** 22.05.2025
-
-**Автор:** Elena Danchenko
-
 ## 1. Введение
 
 ### 1. Область применения
