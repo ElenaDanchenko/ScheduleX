@@ -6,7 +6,7 @@
 
 | Категория           | Инструменты                                      |
 |--------------------|---------------------------------------------------|
-| Методологии анализа | Диаграмма Ишикавы                                  |
+| Методологии анализа | [Диаграмма Ишикавы](https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png)|                                  |
 | Моделирование       | [BPMN](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0), [IDEF0](https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e), [UML](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346), [DFD](https://github.com/user-attachments/assets/8008c1f5-5b20-479b-a0c2-ceb8a7f81d47) |
 | Прототипирование    | [Figma]()|  
 
