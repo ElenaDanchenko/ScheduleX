@@ -50,7 +50,19 @@
 
 
 ## Концепция системы
+<br>
+**Диаграмма Ишикавы**<br>
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="600" height="400"><br>
 
+| Категория проблемы | Описание |
+|---|---|
+| **Проблема** | Сложности в создании расписаний работы медицинского персонала |
+| **Затрагивает** | Медицинский персонал, административный персонал, пациенты |
+| **Результаты** |  Неравномерная нагрузка на персонал и оборудование; Задержки в обслуживании пациентов; Ошибки в расписании (человеческий фактор); Трудности с соблюдением нормативных требований. |
+| **Выигрыш от SCHEDULEX** | Равномерное распределение нагрузки между сотрудниками; Снижение количества накладок в расписании за счет снижения влияния человеческого фактора; Сокращение времени, необходимого для составления расписаний; Возможность прогнозирования потребности в персонале, оборудовании; Снижение количества конфликтов с пациентами из-за задержек в обслуживании; Обеспечение соответствия нормативным требованиям к организации работы персонала. |
+
+**Диаграмма Ишикавы**<br>
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="600" height="400"><br>
 
 ## Стек технологий и методологий использованных в проекте
 
@@ -83,9 +95,9 @@
 •	Запрещено изменять запись другого врача без согласования с ним. <br>
 •	Запрещена запись на процедуры, если: оборудование на техобслуживании, остаток ресурсов <10% (например, расходники для анализов). <br>
 
-<img src="https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0" alt="BPMN" width="800" height="550">
+<img src="https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0" alt="BPMN" width="800" height="550"><br>
 
-**UML**
+**UML**<br>
 Use Case <br>
 <img src="https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346" alt="Use Case" width="600" height="750"> <br>
 
@@ -95,21 +107,11 @@ Use Case <br>
 Диаграмма последовательности для процесса создания новой записи <br>
 <img src="https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331" alt="Sequence Diagram" width="400" height="700"> <br>
 
-**DFD**
+**DFD**<br>
 ![image](https://github.com/user-attachments/assets/d7125bc6-7112-4dbb-959e-5664ec512995)<br> 
 
-**Figma**
-<img src="https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999" alt="Авторизация" width="300" height="650"><img src="https://github.com/user-attachments/assets/3763a996-a350-4500-8925-3ce87ad185f5" alt="Загрузка" width="300" height="650"><img src="https://github.com/user-attachments/assets/3ed1f524-9666-400a-9b0e-b76a87c33835" alt="Расписание" width="300" height="650"><img src="https://github.com/user-attachments/assets/aeda745a-ec84-471b-89d8-f12027952821" alt="Профиль" width="300" height="650"><img src="https://github.com/user-attachments/assets/dd700d67-daad-4e1e-9429-660c5a8018e4" alt="Уведомления" width="300" height="650">
-
-**Диаграмма Ишикавы**
-<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="600" height="400"><br>
-
-| Категория проблемы | Описание |
-|---|---|
-| **Проблема** | Сложности в создании расписаний работы медицинского персонала |
-| **Затрагивает** | Медицинский персонал, административный персонал, пациенты |
-| **Результаты** |  Неравномерная нагрузка на персонал и оборудование; Задержки в обслуживании пациентов; Ошибки в расписании (человеческий фактор); Трудности с соблюдением нормативных требований. |
-| **Выигрыш от SCHEDULEX** | Равномерное распределение нагрузки между сотрудниками; Снижение количества накладок в расписании за счет снижения влияния человеческого фактора; Сокращение времени, необходимого для составления расписаний; Возможность прогнозирования потребности в персонале, оборудовании; Снижение количества конфликтов с пациентами из-за задержек в обслуживании; Обеспечение соответствия нормативным требованиям к организации работы персонала. |
+**Figma**<br>
+<img src="https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999" alt="Авторизация" width="300" height="650"><img src="https://github.com/user-attachments/assets/3763a996-a350-4500-8925-3ce87ad185f5" alt="Загрузка" width="300" height="650"><img src="https://github.com/user-attachments/assets/3ed1f524-9666-400a-9b0e-b76a87c33835" alt="Расписание" width="300" height="650"><img src="https://github.com/user-attachments/assets/aeda745a-ec84-471b-89d8-f12027952821" alt="Профиль" width="300" height="650"><img src="https://github.com/user-attachments/assets/dd700d67-daad-4e1e-9429-660c5a8018e4" alt="Уведомления" width="300" height="650"><br>
 
 
 ## Ключевые заинтересованные лица
