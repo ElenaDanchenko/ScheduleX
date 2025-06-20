@@ -518,14 +518,6 @@ _Атрибуты качества_
 | Перенесенная запись        | Измененное время приема с сохранением в истории.                                                                                                                          |
 | Экстренная отмена           | Автоматическая отметка в расписании при форс-мажоре. 
 
-## Стек технологий и методологий используемых в проекте
-
-| Категория           | Инструменты                                      |
-|--------------------|---------------------------------------------------|
-| Методологии анализа | [Диаграмма Ишикавы](https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png)|                                  |
-| Моделирование       | [BPMN](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0), [IDEF0](https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e), [UML](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346), [DFD](https://github.com/user-attachments/assets/8008c1f5-5b20-479b-a0c2-ceb8a7f81d47) |
-| Прототипирование    | [Figma](https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999)|  
-
 ## Моделирование
 
 **IDEF0**
@@ -561,7 +553,13 @@ Use Case <br>
 
 <img src="https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999" alt="Авторизация" width="300" height="650"><img src="https://github.com/user-attachments/assets/3763a996-a350-4500-8925-3ce87ad185f5" alt="Загрузка" width="300" height="650"><img src="https://github.com/user-attachments/assets/3ed1f524-9666-400a-9b0e-b76a87c33835" alt="Расписание" width="300" height="650"><img src="https://github.com/user-attachments/assets/aeda745a-ec84-471b-89d8-f12027952821" alt="Профиль" width="300" height="650"><img src="https://github.com/user-attachments/assets/dd700d67-daad-4e1e-9429-660c5a8018e4" alt="Уведомления" width="300" height="650"><br>
 
+## Стек технологий и методологий используемых в проекте
 
+| Категория           | Инструменты                                      |
+|--------------------|---------------------------------------------------|
+| Методологии анализа | [Диаграмма Ишикавы](https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png)|                                  |
+| Моделирование       | [BPMN](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0), [IDEF0](https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e), [UML](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346), [DFD](https://github.com/user-attachments/assets/8008c1f5-5b20-479b-a0c2-ceb8a7f81d47) |
+| Прототипирование    | [Figma](https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999)|  
 
 
 
