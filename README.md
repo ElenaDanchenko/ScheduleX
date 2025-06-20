@@ -157,7 +157,6 @@ Use Case <br>
 <img src="https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331" alt="Sequence Diagram" width="400" height="700"> <br>
 
 **DFD**<br>
-#диаграмме-потоков-данных
 <a id="диаграмме-потоков-данных"></a>
 ![image](https://github.com/user-attachments/assets/d7125bc6-7112-4dbb-959e-5664ec512995)<br> 
 
