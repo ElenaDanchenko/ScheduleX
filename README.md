@@ -1,6 +1,14 @@
 # Система управления расписанием ScheduleX #
 
-<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/Log1/original.png" alt="Система управления расписанием" width="100" height="100">
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/Log1/original.png" alt="Система управления расписанием" width="180" height="180" align="center">
+
+### Стек технологий и методологий использованных в проекте
+
+| Категория           | Инструменты                                      |
+|--------------------|---------------------------------------------------|
+| Методологии анализа | Диаграмма Ишикавы                                  |
+| Моделирование       | [BPMN](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0), [IDEF0](https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e), [UML](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346), [DFD](https://github.com/user-attachments/assets/8008c1f5-5b20-479b-a0c2-ceb8a7f81d47) |
+| Прототипирование    | [Figma]()  
 
 ### **Цель проекта** ###
 
@@ -18,15 +26,7 @@
 - Снижение влияния человеческого фактора на 70% 
 - Обеспечение соответствия нормативным требованиям
 
-### Стек технологий и методологий
-
-| Категория | Инструменты |
-|-----------|-------------|
-| Методологии анализа | Диаграмма Ишикавы |
-| Моделирование | BPMN, IDEF0, UML, DFD, Visual Paradigm |
-| Прототипирование | Figma |
-
-### Информационное обследование
+## Информационное обследование
 
 На [контекстной диаграмме](#контекстная-диаграмма-основной-функции-ис) представлена главная бизнес-функция разрабатываемой системы – управление расписанием медицинской организации. <br>
 При анализе данной бизнес-функции была принята точка зрения руководства медицинской организации как потенциального заказчика информационной системы.<br>
@@ -70,17 +70,21 @@
 
 ![image](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0) <br>
 
+## Концепция системы
+### Диаграмма Ишикавы
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="900" height="700">
+
 ### UML
+Use Case <br>
+![image](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346)<br>
 Диаграмма состояний объекта «расписание»  <br>
 ![image](https://github.com/user-attachments/assets/dfe544dd-c511-4bdb-84a7-f62e9305a684)<br>
 Диаграмма последовательности для процесса создания новой записи <br>
-![image](https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331)<br>
+![image](https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331)<br> 
 
 ### DFD
 ![image](https://github.com/user-attachments/assets/d7125bc6-7112-4dbb-959e-5664ec512995)
 
-### Диаграмма Ишикавы
-<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="900" height="700">
 
 | Категория проблемы | Описание |
 |---|---|
@@ -99,12 +103,6 @@
 |Главный врач|Оптимизация и адекватное распределение нагрузки медицинского персонала, высокое качество медицинской помощи|
 |Сотрудники МЦ|Удобное предсказуемое расписание, учет личных пожеланий сотрудников, оптимальная загрузка, снижение очередей и конфликтов, удобный и понятный интерфейс|
 |Отвественное за разработку расписания лицо| удобный и интуитивно понятный интерфейс, снижение количества ошибок, автоматизация составления расписания|
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
