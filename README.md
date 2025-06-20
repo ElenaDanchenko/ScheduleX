@@ -553,7 +553,7 @@ Use Case <br>
 
 <img src="https://github.com/user-attachments/assets/d42c1b65-5c36-4c50-8587-bb706416a999" alt="Авторизация" width="300" height="650"><img src="https://github.com/user-attachments/assets/3763a996-a350-4500-8925-3ce87ad185f5" alt="Загрузка" width="300" height="650"><img src="https://github.com/user-attachments/assets/3ed1f524-9666-400a-9b0e-b76a87c33835" alt="Расписание" width="300" height="650"><img src="https://github.com/user-attachments/assets/aeda745a-ec84-471b-89d8-f12027952821" alt="Профиль" width="300" height="650"><img src="https://github.com/user-attachments/assets/dd700d67-daad-4e1e-9429-660c5a8018e4" alt="Уведомления" width="300" height="650"><br>
 
-## Стек технологий и методологий используемых в проекте
+## Стек технологий и методологий, используемых для разработки требований
 
 | Категория           | Инструменты                                      |
 |--------------------|---------------------------------------------------|
