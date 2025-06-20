@@ -48,11 +48,11 @@
 
 ### IDEF0
 <a id="контекстная-диаграмма-основной-функции-ис"></a>
-Контекстная диаграмма основной функции "Управление расписанием"
-<img src="https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e" alt="IDEF0" width="690" height="350"><br>
-
-Диаграмма декомпозиции процесса 
-<img src="https://github.com/user-attachments/assets/63682799-1490-4386-890e-fa78767111c3" alt="IDEF0" width="890" height="370"><br>
+Контекстная диаграмма основной функции "Управление расписанием"<br>
+<img src="https://github.com/user-attachments/assets/cc42ba01-3ff0-4294-abb3-698cf695c14e" alt="IDEF0" width="500" height="250"><br>
+<br>
+Диаграмма декомпозиции процесса <br>
+<img src="https://github.com/user-attachments/assets/63682799-1490-4386-890e-fa78767111c3" alt="IDEF0" width="700" height="300"><br>
 
 ### Процесс управления расписанием в нотации BPMN. 
 
@@ -68,19 +68,21 @@
 •	Запрещено изменять запись другого врача без согласования с ним. <br>
 •	Запрещена запись на процедуры, если: оборудование на техобслуживании, остаток ресурсов <10% (например, расходники для анализов). <br>
 
-![image](https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0) <br>
+<img src="https://github.com/user-attachments/assets/a0cb425a-dcd1-4bf8-a1bf-e4be815e4ce0" alt="BPMN" width="800" height="550">
 
 ## Концепция системы
 ### Диаграмма Ишикавы
-<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="900" height="700">
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/Ishikava_v1.png" alt="Диаграмма Ишикавы" width="600" height="400">
 
 ### UML
 Use Case <br>
-![image](https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346)<br>
-Диаграмма состояний объекта «расписание»  <br>
-![image](https://github.com/user-attachments/assets/dfe544dd-c511-4bdb-84a7-f62e9305a684)<br>
+<img src="https://github.com/user-attachments/assets/69195552-39d9-41b2-a550-fcaded25f346" alt="Use Case" width="600" height="750"> <br>
+
+Диаграмма состояний объекта «расписание»<br>
+<img src="https://github.com/user-attachments/assets/dfe544dd-c511-4bdb-84a7-f62e9305a684" alt="State Diagram" width="800" height="400"> <br>
+
 Диаграмма последовательности для процесса создания новой записи <br>
-![image](https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331)<br> 
+<img src="https://github.com/user-attachments/assets/357f2927-d100-4aed-832e-4f72f1e6d331" alt="Sequence Diagram" width="400" height="700"> <br>
 
 ### DFD
 ![image](https://github.com/user-attachments/assets/d7125bc6-7112-4dbb-959e-5664ec512995)<br> 
