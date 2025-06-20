@@ -1,6 +1,6 @@
 # Система управления расписанием в медицинских учреждениях ScheduleX #
 
-<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/Log1/original.png" alt="Система управления расписанием" width="180" height="180" align="center">
+<img src="https://github.com/ElenaDanchenko/ScheduleX/blob/main/Logo/original.png" alt="Система управления расписанием" width="180" height="180" align="center">
 
 ## Описание проекта
 
